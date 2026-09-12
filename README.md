@@ -100,13 +100,15 @@ streamlit run app.py
 
 Replace app.py with the actual Python filename if your file has a different name.
 
-5. Upload the Dataset Files
+4. Upload the Dataset Files
 
 After the application opens in your browser, upload these three CSV files through the sidebar:
 
-Sales CSV
-Inventory CSV
-Medicine CSV
+### Dataset Files
+
+- 📄 **Sales CSV**
+- 📦 **Inventory CSV**
+- 💊 **Medicine CSV**
 
 The application will validate and process the uploaded files automatically.
 

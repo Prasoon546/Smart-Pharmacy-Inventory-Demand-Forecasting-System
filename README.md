@@ -46,20 +46,6 @@ match how fast their pharmacy can actually sell or return stock.
 
 ---
 
-## 🚀 How to run it
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-pip install streamlit pandas numpy plotly scikit-learn
-streamlit run app.py
-```
-
-Then upload three CSV files from the sidebar: sales data, inventory data,
-and medicine details — and the dashboard loads automatically.
-
----
-
 ## 📁 Data files needed
 
 **Sales CSV** — needs: `sale_date`, `medicine`, `quantity_sold`
@@ -72,6 +58,57 @@ and medicine details — and the dashboard loads automatically.
 
 Column names don't have to match exactly — common variations are recognized
 automatically (e.g. `qty` → `quantity_sold`, `mrp` → `selling_price`).
+
+---
+Installation
+
+Follow these steps to run the SmartPharm – Inventory & Demand Intelligence project on your computer.
+
+1. Clone the Repository
+
+Open Command Prompt or Anaconda Prompt and run:
+
+```bash
+git clone https://github.com/your-username/SmartPharm.git
+```
+```bash
+cd SmartPharm
+```
+
+2. Install Required Libraries
+
+Install the project dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+The project requires:
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+
+3. Run the Application
+
+Start the Streamlit application using:
+```bash
+streamlit run app.py
+```
+
+Replace app.py with the actual Python filename if your file has a different name.
+
+5. Upload the Dataset Files
+
+After the application opens in your browser, upload these three CSV files through the sidebar:
+
+Sales CSV
+Inventory CSV
+Medicine CSV
+
+The application will validate and process the uploaded files automatically.
 
 ---
 

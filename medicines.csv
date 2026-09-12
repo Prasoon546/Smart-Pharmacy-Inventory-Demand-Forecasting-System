@@ -1,0 +1,21 @@
+Medicine_ID,Medicine_Name,Category,Company,Purchase_Price,Selling_Price,Supplier
+M001,Paracetamol 500mg,Tablet,Alkem,147.23,201.43,HealthCare Distributors
+M002,Dolo 650,Tablet,Mankind,465.88,623.73,LifeLine Pharma
+M003,Crocin,Tablet,Abbott,211.52,278.77,ABC Medical Agencies
+M004,Azithromycin 500mg,Antibiotic,Mankind,451.81,570.58,HealthCare Distributors
+M005,Amoxicillin 500mg,Antibiotic,Micro Labs,50.73,58.61,HealthCare Distributors
+M006,Pantoprazole 40mg,Tablet,Sun Pharma,302.45,348.36,HealthCare Distributors
+M007,Cetirizine 10mg,Tablet,Abbott,52.35,60.61,MediSupply Pvt Ltd
+M008,Levocetirizine 5mg,Tablet,Torrent Pharma,266.79,325.38,HealthCare Distributors
+M009,Ibuprofen 400mg,Tablet,Glenmark,278.83,371.08,Wellness Suppliers
+M010,Diclofenac 50mg,Tablet,Alkem,246.88,332.34,HealthCare Distributors
+M011,Metformin 500mg,Tablet,Abbott,65.28,85.83,ABC Medical Agencies
+M012,Atorvastatin 10mg,Tablet,Sun Pharma,217.33,296.86,MediSupply Pvt Ltd
+M013,Omeprazole 20mg,Capsule,Cipla,49.09,65.39,HealthCare Distributors
+M014,Vitamin C Tablets,Supplement,Dr. Reddy's,111.96,143.76,ABC Medical Agencies
+M015,Vitamin D3,Supplement,Cipla,108.07,136.78,ABC Medical Agencies
+M016,Calcium Tablets,Supplement,Cipla,407.85,556.3,MediSupply Pvt Ltd
+M017,ORS Powder,Powder,Sun Pharma,333.03,427.99,MediSupply Pvt Ltd
+M018,Insulin Injection,Injection,Dr. Reddy's,464.66,632.95,ABC Medical Agencies
+M019,Cough Syrup,Syrup,Alkem,253.11,304.6,MediSupply Pvt Ltd
+M020,Zinc Tablets,Supplement,Alkem,99.03,113.94,LifeLine Pharma

@@ -1,0 +1,32 @@
+# Python / Execution
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env
+
+# Data Files (Crucial: prevents committing massive or sensitive datasets)
+*.csv
+*.xlsx
+*.parquet
+*.db
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
